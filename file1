@@ -1,0 +1,14 @@
+[14:36, 24.07.2025] Arda: https://github.com/ArdaOzdol
+[14:45, 24.07.2025] Eae Mürsel Kılıç: {
+  "name": "umg-coder",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
